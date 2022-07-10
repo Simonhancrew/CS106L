@@ -1,10 +1,12 @@
-## CS106L
+# CS106L
 
-Standford CS106L, teaches Modern C++, including 11,14,17,20. During 9 weeks, 2 Assinments, no exam.
+Standford CS106L, teaches Modern C++, including 11,14,17,20. 
+
+During 9 weeks, 2 Assinments, no exam.
 
 prerequisite: CS106B or CS106X
 
-### Course 
+## Course 
 
 + [official website](http://web.stanford.edu/class/cs106l/index.html)
 
@@ -28,7 +30,7 @@ prerequisite: CS106B or CS106X
 
     Week9: Class Review + Guest Lecture from Ethan Chi: C++ for Data Science and ML
 
-### Assignment
+## Assignment
 
 1. wikiRacer
 
