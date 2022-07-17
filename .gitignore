@@ -41,6 +41,7 @@
 # folders 
 /.cache
 /build*
+res/
 
 # qt user file
 *.user
