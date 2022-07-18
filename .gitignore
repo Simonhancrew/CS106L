@@ -39,8 +39,8 @@
 *.idx
 
 # folders 
-/.cache
-/build*
+.cache/
+build*/
 res/
 
 # qt user file
