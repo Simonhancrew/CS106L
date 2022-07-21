@@ -74,7 +74,7 @@ vector<string> findWikiLadder(const string& start_page, const string& end_page) 
             if(visited_page.count(ne_link) != 0) {
                 continue;
             }
-            if(cnt > 30) break;
+            if(cnt > 40) break;
             ++cnt;
             cout << "add link:" << ne_link << '\n';
             visited_page.insert(ne_link);
