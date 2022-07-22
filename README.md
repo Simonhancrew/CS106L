@@ -32,6 +32,10 @@ prerequisite: CS106B or CS106X
 
 ## Assignment
 
-1. wikiRacer
+1. WikiRacer
 
 2. HashMap
+
+3. KD tree
+
+4. GraphViz
